@@ -1,0 +1,5 @@
+
+var HttpManager = function()
+{
+	
+}

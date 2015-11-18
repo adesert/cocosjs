@@ -1,0 +1,5 @@
+
+var UMengManager = function()
+{
+	
+}

@@ -1,0 +1,6 @@
+
+
+var UICenterManager = function  () 
+{
+		
+}

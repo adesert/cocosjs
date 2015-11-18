@@ -1,0 +1,5 @@
+
+var SocketManager = function()
+{
+	
+}

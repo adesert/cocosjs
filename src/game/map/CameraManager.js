@@ -1,0 +1,5 @@
+
+var CameraManager = function()
+{
+	
+}

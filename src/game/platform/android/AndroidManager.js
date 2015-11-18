@@ -1,0 +1,5 @@
+
+var AndroidManager = function()
+{
+	
+}
