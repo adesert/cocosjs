@@ -17,6 +17,7 @@ var BaseManager = cc.Node.extend {
 		 this.dict[key][func].push(target);
 	},
 
+	//{"key" = {"func" = ["target"],"func"= []}}
 	applyFn:function(key)
 	{
 		if(!this.dict){
@@ -34,7 +35,6 @@ var BaseManager = cc.Node.extend {
 				}
 			}
 		}
-
 	},
 
 	unRegisterFn:function(key,func,target)

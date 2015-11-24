@@ -10,4 +10,8 @@ var BaseLayer = cc.Layer.extend({
 
 	},
 
+	clear:function(){
+
+	}
+
 })
