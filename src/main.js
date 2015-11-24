@@ -9,6 +9,7 @@ require("NodeEx.js");
 require("tools/CommonFunc.js");
 require("tools/MathUtil.js");
 require("tools/TimeUtil.js");
+require("tools/Base64.js");
 require("protobuf/ProtobufManager.js");
 require("network/http/HttpManager.js");
 require("network/socket/SocketManager.js");
@@ -19,6 +20,7 @@ require("ex_framework/scheduler.js");
 require("game/base/BaseData.js");
 require("game/base/BaseLayer.js");
 require("game/base/lan_tool.js");
+
 require("game/combat/combat_op.js");
 require("game/creature/machine/ai/AIFactory.js");
 require("game/creature/machine/ai/BossAI.js");
@@ -66,6 +68,7 @@ require("game/modules/loading/LoadingManager.js");
 require("game/modules/loading/LoadingWnd.js");
 require("game/modules/test/TestManager.js");
 require("game/modules/test/TestUI.js");
+
 
 
 cc.game.onStart = function(){

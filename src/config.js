@@ -3,6 +3,8 @@
 // var visibleSize = cc.Director.getInstance().getVisibleSize();
 // var visibleOrigin = cc.Director.getInstance().getVisibleOrigin();
 // var.sceneSize = cc.Director.getInstance().getWinSizeInPixels();
+ // var platform = cc.Application.getInstance().getTargetPlatform();
+ 
 
 var winSize = cc.winSize;
 var center_x = winSize.width / 2
