@@ -1,0 +1,5 @@
+
+var GlobalScene = function  () {
+	
+}
+
